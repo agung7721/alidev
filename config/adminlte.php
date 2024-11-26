@@ -63,7 +63,7 @@ return [
     |
     */
 
-    'logo' => '<b>ALI</b>Baga',
+    'logo' => '<b>ALI</b>Bagasss',
     'logo_img' => 'vendor/adminlte/dist/img/AdminLTELogo.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
